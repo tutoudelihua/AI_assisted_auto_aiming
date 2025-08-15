@@ -1,3 +1,4 @@
+# AI_assisted_auto_aiming
 👌😎👌<br />
 基于yolov11的无畏契约/valorant AI辅助瞄准Demon<br />
 项目只是实现了基本功能，还存在很多不足，如对象距离较远会导致识别不出来以及帧率不足等bug，仅供互相学习<br />
