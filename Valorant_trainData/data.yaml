@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['enemyBody', 'enemyHead']
+
+roboflow:
+  workspace: brolikeshooting
+  project: valorant-object-detection2-yuw86
+  version: 1
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/brolikeshooting/valorant-object-detection2-yuw86/dataset/1
